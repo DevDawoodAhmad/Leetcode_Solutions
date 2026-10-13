@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/1051-height-checker) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/1051-height-checker) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
 |  |
 | ------- |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
