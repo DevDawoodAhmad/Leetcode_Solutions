@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
 |  |
 | ------- |
