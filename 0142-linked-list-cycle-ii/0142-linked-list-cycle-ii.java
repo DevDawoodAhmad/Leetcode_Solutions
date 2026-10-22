@@ -11,13 +11,36 @@
  */
 public class Solution {
     public ListNode detectCycle(ListNode head) {
-        Set<ListNode> seen = new HashSet<>();
-        ListNode curr = head;
-        while(curr != null){
-            if(!seen.add(curr)) return curr;
-            
-            curr = curr.next;
+        ListNode slow = head,fast = head;
+        
+        while(fast!=null && fast.next !=null){
+            slow = slow.next;
+            fast = fast.next.next;
+            if(slow == fast){
+                ListNode ptr = head;
+                while(ptr != fast){
+                    ptr = ptr.next;
+                    fast = fast.next;
+                }
+                return ptr;
+            }
         }
-     return null;   
+        return null;
+        
     }
 }
+
+// <--------------  When using extra space ----------->
+
+// public class Solution {
+//     public ListNode detectCycle(ListNode head) {
+//         Set<ListNode> seen = new HashSet<>();
+//         ListNode curr = head;
+//         while(curr != null){
+//             if(!seen.add(curr)) return curr;
+            
+//             curr = curr.next;
+//         }
+//      return null;   
+//     }
+// }
