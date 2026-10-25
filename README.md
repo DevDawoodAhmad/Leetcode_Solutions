@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/1051-height-checker) |
+| [1254-number-of-closed-islands](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -87,4 +88,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2409-count-days-spent-together](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/2409-count-days-spent-together) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
