@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0130-surrounded-regions](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0414-third-maximum-number](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -93,24 +94,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DevDawoodAhmad/Leetcode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
